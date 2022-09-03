@@ -1,5 +1,5 @@
 # TG-Dos-bot
-a bot conducting simple dos attacks
+Описание: a bot conducting simple dos attacks
 
 Вам потребуется указать токен бота в начале файла
 
