@@ -75,7 +75,7 @@ async def attackstart(message: types.Message):
                 await mainmsg.edit_text(text = f"Потоки завершены!\nХорошего вам дня.")
                 coutrequests = 0
                 errorrequests = 0
-                await state.finish()
+                await state.finish() #Анечка мое вдохновение, моя муза)
                 pass
                 
             except Exception as err:
